@@ -28,5 +28,5 @@
 
 **Вторая часть задания**
 Автоматическое тестирование переключения языков на сайте:
-[github.com/gorelikspb/autotest_lang_switch_coin
+[https://github.com/gorelikspb/autotest_lang_switch_coin
 ](url)
